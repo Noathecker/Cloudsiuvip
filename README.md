@@ -1,6 +1,3 @@
-# 
-<!DOCTYPE html>
-<html lang="vi">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -490,7 +487,7 @@ function addWalkingDead() {
       addDevice(VPN, "https://now.gg/apps/cognosphere-pte-ltd-/1773/genshin-impact.html", "vpnDeviceList", true);
     }
     
-    function addVpnDevice6(VPN) {
+   function addVpnDevice6(VPN) {
       addDevice(VPN, "https://now.gg/apps/discord-inc-/1430/discord-talk-chat-hang-out.html", "vpnDeviceList", true);
     }
     
@@ -612,4 +609,4 @@ function setBackground(url) {
 
 </script>
 </body>
-</html>
+ 
